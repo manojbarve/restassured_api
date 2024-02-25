@@ -1,7 +1,7 @@
-D:\API_Automtion\Maven_Cucumber_RestAssured\Maven_Cucumber_RestAssured\src\test\java\runner\TestRunner.java
-D:\API_Automtion\Maven_Cucumber_RestAssured\Maven_Cucumber_RestAssured\src\test\java\APIHelper\PurchaseUnits.java
-D:\API_Automtion\Maven_Cucumber_RestAssured\Maven_Cucumber_RestAssured\src\test\java\APIHelper\Orders.java
-D:\API_Automtion\Maven_Cucumber_RestAssured\Maven_Cucumber_RestAssured\src\test\java\runner\BeforeStep.java
-D:\API_Automtion\Maven_Cucumber_RestAssured\Maven_Cucumber_RestAssured\src\test\java\utils\BaseTest.java
-D:\API_Automtion\Maven_Cucumber_RestAssured\Maven_Cucumber_RestAssured\src\test\java\stepDefinition\ApiTestingStepDef.java
-D:\API_Automtion\Maven_Cucumber_RestAssured\Maven_Cucumber_RestAssured\src\test\java\APIHelper\Amount.java
+D:\API_auto\restassured_api\src\test\java\runner\TestRunner.java
+D:\API_auto\restassured_api\src\test\java\stepDefinition\ApiTestingStepDef.java
+D:\API_auto\restassured_api\src\test\java\APIHelper\Amount.java
+D:\API_auto\restassured_api\src\test\java\APIHelper\Orders.java
+D:\API_auto\restassured_api\src\test\java\APIHelper\PurchaseUnits.java
+D:\API_auto\restassured_api\src\test\java\utils\BaseTest.java
+D:\API_auto\restassured_api\src\test\java\runner\BeforeStep.java
